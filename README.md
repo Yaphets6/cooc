@@ -41,10 +41,10 @@ PlaywrightBase
 
 跑demo，需要手动输入验证码，目前腾讯云OCR识别无法调试。
 ### 效果
-[Demo报告](https://raw.githack.com/Yaphets6/cooc/tree/master/AutoTestDemo20260111122212/reportIndex.html)
+[Demo报告](https://raw.githack.com/Yaphets6/cooc/blob/master/AutoTestDemo20260111122212/reportIndex.html)
 
 
-![image](https://github.com/Yaphets6/cooc/tree/master/AutoTestDemo20260111122212/TestScreenshot/1.png)
+![image](https://github.com/Yaphets6/cooc/blob/master/AutoTestDemo20260111122212/TestScreenshot/1.png)
 
 
-![image](https://github.com/Yaphets6/cooc/tree/master/AutoTestDemo20260111122212/TestScreenshot/2.png)
+![image](https://github.com/Yaphets6/cooc/blob/master/AutoTestDemo20260111122212/TestScreenshot/1.png)
