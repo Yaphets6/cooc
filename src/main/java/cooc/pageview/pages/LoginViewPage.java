@@ -53,7 +53,7 @@ public class LoginViewPage extends BasePageView {
 //        input.fillByPlaceholder(PASSWORD_PLACEHOLDER,passWord);  //不知道密码
         Thread.sleep(5000);//暂停5杪手动填写验证码，腾讯ocr识别无法调试
         Response res = this.page.waitForResponse(getApiPatter(HomeIndexViewPage.PATH),()-> button.clickBtnByName(LOGIN_BTN_TEXT));
-        System.out.println("登录后首页接口:" + new Sring(res.body()));
+        System.out.println("登录后首页接口:" + new String(res.body()));
     }
 
     public void LogOut(){
